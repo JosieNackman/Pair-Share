@@ -7,3 +7,4 @@ print("My partner's name: Anan")
 print("She is a good compsci partner")
 print("She is really fun to live in main dorm with")
 print("She is very caring and motherly to the freshmen") 
+#Ive got the magic in me...
